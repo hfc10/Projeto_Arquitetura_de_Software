@@ -15,10 +15,15 @@ pip install -r requirements.txt
 Crie um arquivo chamado .env na raiz do projeto e cole o conteúdo abaixo, ajustando com a sua senha do MySQL:
 
 DB_USER=root
+
 DB_PASS=root
+
 DB_HOST=localhost
+
 DB_NAME=projeto_tema1
+
 SECRET_KEY=chave_secreta_aqui
+
 
 3. Rodar a API (FastAPI)
 
